@@ -58,3 +58,11 @@ O projeto foi desenvolvido seguindo as etapas clássicas de um fluxo de Ciência
 - **Scikit-learn** – modelagem e métricas
 - **Statsmodels** – análise estatística e regressão linear
 
+---
+
+## 📊 Resultados Principais
+
+O modelo de regressão linear apresentou um ajuste adequado aos dados analisados, conforme indicado pelo coeficiente de determinação (R²).  
+A análise dos resíduos mostrou comportamento aproximadamente normal, sem padrões sistemáticos relevantes, indicando que as principais suposições do modelo linear foram atendidas de forma satisfatória.
+
+Os coeficientes estimados permitiram interpretar a influência das variáveis explicativas sobre o consumo de energia, fornecendo insights relevantes para análise e tomada de decisão.
