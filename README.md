@@ -32,15 +32,61 @@ Além disso, busca-se verificar se as principais premissas da regressão linear 
 
 ## Base de Dados
 
-A base de dados utilizada contém informações relacionadas ao consumo de energia industrial e variáveis potencialmente associadas ao seu comportamento.
+Foi utilizada uma base de dados contendo informações relacionadas ao consumo de energia em um ambiente industrial, permitindo investigar a relação entre variáveis operacionais, ambientais e temporais com o consumo energético observado.
+
+O conjunto de dados possui:
+
+| Característica    | Valor               |
+| ----------------- | ------------------- |
+| Registros         | 1.000               |
+| Variáveis         | 13                  |
+| Variável Resposta | Consumo_Energia_kWh |
+
+O objetivo da análise consiste em compreender quais fatores influenciam o consumo de energia e construir um modelo estatístico capaz de explicar e prever seu comportamento.
+
+### Variável Resposta
+
+A variável de interesse do estudo é:
+
+* **Consumo_Energia_kWh**: consumo de energia elétrica medido em quilowatt-hora (kWh).
+
+### Variáveis Explicativas
+
+A base contém variáveis relacionadas a diferentes aspectos do ambiente industrial:
+
+#### Variáveis Operacionais
+
+* Velocidade_Producao_RPM
+* Pressao_Sistema_Bar
+
+#### Variáveis Ambientais
+
+* Temperatura_Ambiente_C
+* Umidade_Ar_Percent
+
+#### Variáveis Temporais
+
+* Data_Hora
+* Hora_Dia
+* Dia_Semana
+
+#### Variáveis de Sensores
+
+* Sensor_Ruido_1
+* Sensor_Ruido_2
+* Sensor_Redundante
+* Sensor_Tempo_Ruido
+* Sensor_Constante
 
 O conjunto de dados foi utilizado para:
 
-* Identificar padrões de consumo;
+* Identificar padrões de consumo energético;
 * Avaliar relações entre variáveis explicativas e a variável resposta;
 * Construir modelos preditivos;
-* Interpretar fatores que influenciam o consumo energético;
+* Interpretar fatores que influenciam o consumo de energia;
+* Avaliar a influência de variáveis redundantes ou pouco informativas;
 * Validar estatisticamente os resultados obtidos.
+
 
 ---
 
