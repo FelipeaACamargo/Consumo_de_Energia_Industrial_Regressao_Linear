@@ -195,19 +195,16 @@ A análise residual indicou comportamento compatível com as principais premissa
 ### Manipulação e Tratamento de Dados
 
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)](https://pandas.pydata.org/)
-
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)](https://numpy.org/)
 
 ### Visualização de Dados
 
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](https://matplotlib.org/)
-
 [![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)](https://seaborn.pydata.org/)
 
 ### Machine Learning e Estatística
 
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)](https://scikit-learn.org/)
-
 [![Statsmodels](https://img.shields.io/badge/Statsmodels-2E5EAA?style=for-the-badge)](https://www.statsmodels.org/)
 
 ---
